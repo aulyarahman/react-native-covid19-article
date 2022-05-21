@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "title": "Apa itu PROKES",
+    "imageUrl": "https://cdn1.katadata.co.id/media/images/thumb/2020/08/14/Ilustrasi_Edisi_Khusus_Corona_-_1-2020_08_14-21_31_56_f5913c41d31d27f81c95d7e782189adc_620x413_thumb.jpg",
+    "description": [],
+    "option": [
+      {
+        "label": "Pengertian PROKES",
+        "value": [
+          "Protokol Kesehatan (PROKES) adalah serangkaian aturan yang dikeluarkan oleh pemerintah melalui kementrian kesehatan dalam mengatur keamanan beraktivitas selama masa pandemi Covid-19. Tujuan diberlakukan protokol kesehatan guna membantu masyarakat untuk dapat beraktivitas secara aman dan tidak membahayakan kondisi kesehatan orang lain."
+        ]
+      },
+      {
+        "label": "Penerapan Protokol Kesehatan",
+        "value": [
+          "Penerapan prokes telah menjadi bagian penting dalam kehidupan masyarakat saat ini. Pasalnya setiap orang memiliki resiko yang sama akan dampak pandemi Covid-19. 3M (memakai masker, menjaga jarak, dan mencuci tangan) sebagai protokol wajib hendaknya terus dilakukan hingga kondisi pandemi ini selesai. Selain menerapkan, kita juga dapat membantu angka pencegahan covid dengan mengingatkan pada mereka yang belum menerapkan protokol kesehatan. Sinergi dalam penerapan protokol covid-19 dapat membantu menghentikan penyebaran virus corona serta mempercepat perbaikan kondisi pandemi agar segera selesai."
+        ]
+      }
+    ],
+    "text_afer": [],
+    "source": "www.ciputrahospital.com",
+    "list_text_afer": []
+  },
+  {
+    "id": 2,
+    "title": "Memakai Masker",
+    "description": [],
+    "imageUrl": "https://imgcdn.rri.co.id/__srct/b763d32e20ec5d473fd182b5c78d0964/1022799/picture4.jpg",
+    "option": [
+      {
+        "label": "Mengapa harus memakai masker?",
+        "value": [
+          "Memakai masker dapat melindungi diri kita sendiri dari kemungkinan terpapar virus. Masker mencegah masuknya percikan air liur (droplet) dan dahak dari orang lain saat batuk/bersin/berbicara, sehingga kita tidak tertular. Begitu pun sebaliknya, dengan memakai masker kita juga melindungi orang lain. Hal tersebut karena masker yang kita gunakan juga menahan droplet yang keluar saat kita batuk/bersin/berbicara sehingga tidak menularkan virus ke orang lain."
+        ]
+      },
+      {
+        "label": "Apa saja jenis masker yang disarankan?",
+        "value": [
+          "Pertama, masker N95. Masker ini mampu memfilter setidaknya 95% partikel melayang di udara, menyaring virus, bakteri, jamur, debu serta menghilangkan partikel non-berminyak cair seperti semprotan anti serangga atau minyak wangi (WHO, 2020).",
+          "Kedua, masker medis/bedah. Masker ini terbuat dari 3 lapisan bahan non-tenun sintetis, tersedia dalam beberapa ketebalan, memiliki tingkatan filtrasi dan tahan air. Mampu menyaring sekitar 80-85% partikel yang dihirup. Melindungi hidung dan mulut agar tidak bersentuhan dengan tetesan yang bisa membawa kuman. Masker ini hanya sekali pakai, dengan durasi maksimum 4 jam dan masker harus diganti jika dalam keadaan lembab dan/atau basah. Setelah itu harus dibuang sesuai prosedur pembuangan limbah medis. (WHO, 2020).",
+          "Ketiga, masker kain. Masker kain yang baik adalah yang memiliki setidaknya 3 lapis (front-rear: waterproof non-woven layer, microfiber melt-blown non-woven fabric, ordinary non-woven fabric). Masker kain memiliki efektivitas 50-70%. Bisa dicuci kemudian dipakai kembali. Pemakaian maksimal 4 jam, sehingga disarankan membawa masker cadangan. Masker ini tidak dapat digunakan oleh tenaga kesehatan sebagai APD.",
+          "Masker yang tidak disarankan adalah di luar ketiga jenis masker tersebut, plus masker katup, karena virus dari dalam tetap dapat keluar, sehingga masih berisiko untuk menularkan orang lain."
+        ]
+      },
+      {
+        "label": "Bagaimana cara memakai masker? Berikut tata caranya: ",
+        "value": [
+          "Bersihkan tangan dengan sabun atau hand sanitizer ",
+          "Bagian berwarna merupakan bagian depan masker",
+          "Tanpa menyentuh bagian dalam masker, pakai masker secara perlahan, pastikan menutupi mulut, hidung, dan dagu dengan rapat",
+          "Hindari menyentuh masker saat dipakai ",
+          "Ganti masker jika lembab atau basah 6. Pemakaian masker maksimal adalah 4 jam"
+        ]
+      },
+      {
+        "label": "Hindari pemakaian masker yang salah: ",
+        "value": [
+          "Masker tidak menutupi area dagu. Hindari memakai masker yang hanya menjangkau hidung dan mulut tapi bagian dagu belum tertutup sempurna.",
+          "Masker sudah menutup bagian dagu tapi bagian atasnya hanya tercantol di ujung hidung. Kuman masih bisa masuk melalui bagian atas celah masker.",
+          "Masker terlalu longgar. Pastikan masker cukup rapat sehingga kuman tidak bisa masuk dari segala arah termasuk area samping.",
+          "Masker melorot di bawah dagu. Kesalahan ini membuat masker rentan terpapar kuman saat digunakan kembali. Anda juga berpotensi terpapar penyakit karena area hidung dan mulut tidak terlindungi."
+        ]
+      }
+    ],
+    "text_afer": [],
+    "source": "www.covid19.go.id",
+    "list_text_afer": []
+  },
+  {
+    "id": 3,
+    "title": "Menjaga Jarak",
+    "imageUrl": "https://pingpoint.co.id/media/images/Kala_Social_Distancing_Ini_Hal_yang_Harus_Dila.width-800.jpg",
+    "description": [],
+    "option": [
+      {
+        "label": "Mengapa kita harus menjaga jarak?",
+        "value": [
+          "Tujuan dari menjaga jarak adalah memperlambat penyebaran COVID-19 dengan memutus rantai penularan dan mencegah munculnya rantai penularan baru (WHO, 2020)",
+          "Droplet yang keluar saat kita batuk, jika tanpa masker bisa meluncur sampai 2 meter. Saat berbicara tanpa masker, aerosol (partikel sangat kecil yang dapat mengapung di udara) bisa meluncur sejauh 2 meter. Saat bersin tanpa masker, droplet bisa meluncur sejauh 6 meter. Dengan menjaga jarak aman sejauh 2 meter, maka kita bisa mengurangi risiko tertular dan menularkan hingga 85% (Adisasmito, 2020)."
+        ]
+      },
+      {
+        "label": "Bagaimana kita bisa menjaga jarak?",
+        "value": [
+          "Menjaga jarak aman dengan orang lain sejauh 2 meter. Tidak berjabat tangan, bergandengan tangan, atau berpelukan. Hindari berdekatan dengan siapa pun dan di mana pun. Membatasi pertemuan dengan orang lain, seperti aktivitas berkelompok."
+        ]
+      },
+      {
+        "label": "Bagaimana menjaga jarak aman di tempat kerja atau di lokasi dalam ruangan?",
+        "value": [
+          "Pastikan area kerja berjarak aman 2 meter dengan orang lain. Ketika melakukan interaksi tatap muka, jaga jarak aman 2 meter dari satu sama lain. Jika mungkin, pertemuan tatap muka diganti menjadi pertemuan virtual. Hindari penggunaan lift, gunakan tangga jika memungkinkan. Ketika harus menggunakan lift, maka patuhi pembatasan jumlah pengguna lift dan protokol kesehatan yang berlaku. Usahakan pekerja mengendarai kendaraan pribadi pada saat perjalanan ke tempat kerja. Ada tips yang baik untuk melakukan cara bepergian, yaitu:"
+        ]
+      }
+    ],
+    "text_afer": [],
+    "source": "www.covid19.go.id",
+    "list_text_afer": [
+      "Pahami kebijakan dan protokol kesehatan yang berlaku sebelum pergi dan terapkan saat bepergian.",
+      "Siapkan transportasi yang akan digunakan. Ketika akan menggunakan transportasi umum, jaga jarak aman sejauh 2 meter dari orang lain. Namun jika sulit menjaga jarak maka pastikan menggunakan masker yang aman.",
+      "Batasi kontak dengan orang lain. Hanya pergi berbelanja ketika memang sangat diperlukan, jaga jarak aman 2 meter dari orang lain. Apabila memungkinkan, belanja melalui drive-thru atau layanan pesan antar untuk minimalisasi kontak.",
+      "Pilih kegiatan sosial yang aman. Manfaatkan media sosial untuk bersosialisasi dengan kerabat. Ketika bertemu orang lain secara langsung, jaga jarak aman sejauh 2 meter dari orang lain.",
+      "Jaga jarak saat berkegiatan. Tindakan paling aman adalah menjaga jarak aman sejauh 2 meter dari orang lain, dilengkapi dengan penggunaan masker.",
+      "Tetap jaga jarak saat aktif beraktivitas. Ketika berolahraga di luar, misal jalan atau bersepeda, selalu jaga jarak dengan orang lain. Apabila memilih untuk mengunjungi taman, trek lari, atau fasilitas lain, cek terlebih dahulu peraturan di tempat tersebut."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Mencuci Tangan",
+    "imageUrl": "https://cdn1-production-images-kly.akamaized.net/TtZ4LZsXqqkygmu3J0wsG5nDPfk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3103307/original/085007700_1586967267-Ilustrasi_mencuci_tangan.jpg",
+    "description": [],
+    "option": [
+      {
+        "label": "Mengapa harus mencuci tangan?",
+        "value": [
+          "Tangan berperan penting dalam transmisi jasad renik atau mikroorganisme dan mudah terjadi ketika kita tidak menjaga kebersihan tangan dengan baik. Mencuci tangan merupakan salah satu langkah paling penting yang bisa kita lakukan untuk menghindari sakit dan menyebarkan virus ke orang lain.",
+          "Orang-orang sering menyentuh mata, hidung dan mulut tanpa sadar. Virus bisa masuk ke tubuh melalui mata, hidung dan mulut. Virus dari tangan yang kotor bisa menyebar ke makanan atau minuman pada saat proses pembuatan dan saat dimakan. Virus dari tangan kotor bisa menyebar ke barang, seperti pegangan tangan, meja, mainan yang kemudian menyebar ke tangan orang lain yang menyentuhnya"
+        ]
+      },
+      {
+        "label": "Bagaimana cara mencuci tangan",
+        "value": [
+          "Air dan sabun yang dibuat menjadi busa dapat mencuci dan menghilangkan virus dari tangan. Dengan membasahi tangan pakai air sebelum mengambil sabun menghasilkan busa yang lebih baik dibandingkan menyabuni tangan kering. Busa yang baik membentuk buih yang dapat mencuci dan menghilangkan virus dari tangan.",
+          "Disarankan melakukan enam langkah mencuci tangan pakai sabun sebagai berikut:"
+        ]
+      }
+    ],
+    "text_afer": [
+      "Ratakan sabun dengan kedua tangan",
+      "Gosok punggung tangan dan sela-sela jari",
+      "Gosok jari-jari bagian dalam",
+      "Gosok telapak tangan dengan posisi jari saling mengunci",
+      "Gosok ibu jari secara berputar dalam genggaman",
+      "Gosok ujung jari pada telapak tangan secara berputar."
+    ],
+    "source": "www.covid19.go.id",
+    "list_text_afer": [
+      "Setelah mencuci tangan, tangan harus dikeringkan dengan menggunakan tisu, handuk bersih, atau alat pengering tangan karena bakteri lebih mudah menyebar di kulit basah dibandingkan kulit kering (CDC, 2020).",
+      "Kapan atau seberapa sering mencuci tangan? Direkomendasikan untuk sering mencuci tangan saat berkegiatan sehari-hari.",
+      "Sebelum, saat, dan setelah menyiapkan makanan",
+      "Sebelum dan setelah makan",
+      "Sebelum dan setelah merawat orang sakit",
+      "Sebelum dan setelah mengobati luka",
+      "Setelah menggunakan toilet",
+      "Setelah mengganti pampers atau membantu anak kecil di kamar mandi",
+      "Setelah menyentuh hewan, makanan hewan, atau kotoran hewan",
+      "Setelah menyentuh sampah",
+      "Ketika tangan terlihat kotor",
+      "Setelah membersihkan hidung, bersin, atau batuk."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Hand Sanitizer",
+    "imageUrl": "https://s.hdnux.com/photos/01/11/15/37/19191749/3/ratio3x2_1200.jpg",
+    "description": [],
+    "option": [
+      {
+        "label": "Pengertian Hand Sanitizer",
+        "value": [
+          "Hand Sanitizer merupakan pembersih tangan yang memiliki kemampuan antibakteri dalam menghambat hingga membunuh bakteri (Retnosari dan Isdiartuti, 2006). Menurut Diana (2012), terdapat dua hand sanitizer yaitu hand sanitizer gel dan hand sanitizer spray. Hand sanitizer gel merupakan pembersih tangan berbentuk gel yang berguna untuk membersihkan atau menghilangkan kuman pada tangan, mengandung bahan aktif alkohol 60%. Hand sanitizer spray merupakan pembersih tangan berbentuk spray untuk membersihkan atau menghilangkan kuman pada tangan yang mengandung bahan aktif irgasan DP 300 : 0,1% dan alkohol 60%. Penelitian Diana (2012) menyatakan, hand sanitizer yang berbentuk cair atau spray lebih efektif dibandingkan hand sanitizer gel dalam menurunkan angka kuman pada tangan."
+        ]
+      },
+      {
+        "label": "Kandungan hand sanitizer",
+        "value": [
+          "Secara umum hand sanitizer mengandung: alkohol 60-95%, benzalkonium chloride, benzethonium chloride, chlorhexidine, gluconatee, chloroxylenolf, clofucarbang, hexachloropheneh, hexylresocarcinol, iodine. (Benjamin, 2010). Menurut CDC, hand sanitizer terbagi menjadi dua yaitu mengandung alkohol dan tidak mengandung alkohol. Hand sanitizer dengan kandungan alkohol antara 60- 95% memiliki efek anti mikroba yang baik dibandingkan dengan tanpa kandungan alkohol (Purwantiningsih, 2015)."
+        ]
+      },
+      {
+        "label": "Manfaat hand sanitizer",
+        "value": [
+          "Manfaat hand sanitizer Adapun kelebihan hand sanitizer dapat membunuh kuman dalam waktu relatif cepat, karena mengandung senyawa alkohol (etanol, propanol, isopropanol) dengan konsentrasi ± 60% sampai 80% dan golongan fenol (klorheksidin, triklosan). Senyawa yang terkandung dalam hand sanitizer memiliki mekanisme kerja dengan cara mendenaturasi dan mengkoagulasi protein sel kuman. Kandungan aktif yang sering ditemukan pada hand santizer dipasaran adalah 62% etil alcohol. Kandungan tersebut bermanfaat dalam membunuh bakteri. Dalam penelitian yang dilakukan oleh Liu et al, menyatakan bahwa efektivitas dari suatu hand sanitizer ditentukan oleh berbagai faktor seperti, jenis antiseptik yang kita gunakan dan banyaknya, metode penelitian dan target organisme (Liu et al., 2010)."
+        ]
+      }
+    ],
+    "text_afer": [],
+    "source": "djkn.kemenkeu.go.id & repository.poltekkes-denpasar.ac.id",
+    "list_text_afer": []
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "title": "Apa itu Vaksin",
+    "description": [
+      "Vaksinasi merupakan upaya kesehatan masyarakat paling efektif dan efisien dalam mencegah beberapa penyakit menular berbahaya. Sejarah telah mencatat besarnya peranan vaksinasi dalam menyelamatkan masyarakat dunia dari kesakitan, kecacatan bahkan kematian akibat Penyakit yang Dapat Dicegah Dengan Vaksinasi (PD3I). Dalam upaya penanggulangan pandemi COVID-19, vaksinasi COVID-19 bertujuan untuk mengurangi transmisi/penularan COVID-19, menurunkan angka kesakitan dan kematian akibat COVID-19, mencapai kekebalan kelompok di masyarakat (herd imunity) dan melindungi masyarakat dari COVID-19 agar tetap produktif secara sosial dan ekonomi."
+    ],
+    "option": [],
+    "text_afer": "",
+    "source": "www.persi.or.id",
+    "list_text_afer": []
+  },
+  {
+    "id": 2,
+    "title": "Manfaat Vaksin",
+    "description": [],
+    "option": [
+      {
+        "label": "Merangsang Sistem Kekebalan Tubuh",
+        "value": [
+          "Vaksin yang terdiri dari berbagai produk biologi dan bagian dari virus yang sudah dilemahkan yang disuntikkan ke dalam manusia, akan merangsang timbulnya imun atau daya tahan tubuh seseorang."
+        ]
+      },
+      {
+        "label": "Mengurangi Risiko Penularan",
+        "value": [
+          "Tubuh seseorang yang telah disuntikkan vaksin, akan merangsang antibodi untuk belajar dan mengenali virus yang telah dilemahkan tersebut. Dengan demikian, tubuh akan mengenai virus dan mengurang risiko terpapar"
+        ]
+      },
+      {
+        "label": "Mengurangi Dampak Berat dari Virus",
+        "value": [
+          "Dengan kondisi kekebalan tubuh yang telah mengenali virus, maka jika sistem imun seseorang kalah dan kemudian terpapar, maka dampak atau gejala dari virus tersebut akan mengalami pelemahan"
+        ]
+      },
+      {
+        "label": "Mencapai Herd Immunity",
+        "value": [
+          "Semakin banyak individu yang melakukan vaksin di sebuah daerah atau negara, maka Herd Immunity akan tercapai, sehingga meminimalisir risiko paparan dan mutasi dari virus Covid-19",
+          "Dengan adanya informasi diatas, diharapkan masyarakat akan mendapatkan kesadaran bersama tentang penting nya melakukan vaksinasi di tengah pandemi yang melanda saat ini."
+        ]
+      }
+    ],
+    "text_afer": "",
+    "source": "www.kemkes.go.id",
+    "list_text_afer": []
+  },
+  {
+    "id": 3,
+    "title": "Jenis-jenis Vaksin",
+    "description": [],
+    "option": [
+      {
+        "label": "Vaksin Sinovac",
+        "value": [
+          "Vaksin buatan Sinovac Biotech Ltd. yang diberi nama CoronaVac ini merupakan jenis vaksin inaktivasi. Artinya vaksin berisi patogen yang sudah dimatikan, sehingga bisa merangsang terbentuknya sistem kekebalan tubuh tanpa menyebabkan penyakit. Vaksin Sinovac diberikan sebanyak dua dosis dengan jarak waktu antara tiap pemberian minimal selama 28 hari."
+        ]
+      },
+      {
+        "label": "Vaksin Astrazeneca",
+        "value": [
+          "Vaksin COVID-19 buatan perusahaan farmasi Inggris, AstraZeneca, bekerja dengan cara membawa protein lonjakan ke dalam sel tubuh, sehingga sel-sel bisa membacanya dan membuat salinan protein lonjakan. Sistem kekebalan tubuh kemudian akan belajar untuk mengenali dan melawan virus SARS-CoV-2. Sama seperti Sinovac, vaksin AstraZeneca juga diberikan sebanyak dua kali penyuntikan dengan jarak waktu pemberian antar dosis yaitu 12 minggu"
+        ]
+      },
+      {
+        "label": "Vaksin Moderna",
+        "value": [
+          "Vaksin corona buatan Moderna ini diklaim memiliki efektivitas sebesar 94,5 persen. Vaksin ini berbasis mRNA yang bekerja dengan cara menginstruksikan sel untuk membuat protein linjakan, sehingga tubuh bisa menghasilkan respons kekebalan dan menyimpan informasi tersebut."
+        ]
+      },
+      {
+        "label": "Vaksin Sinopharm",
+        "value": [
+          "Vaksin buatan China National Pharmaceutical Group Corporation ini juga merupakan vaksin inaktivasi yang menstimulasi sistem kekebalan tubuh tanpa risiko menyebabkan penyakit. Sinopharm diberikan sebanyak 2 dosis dengan interval 3-4 minggu."
+        ]
+      },
+      {
+        "label": "Vaksin Pfizer Inc dan BioNTech",
+        "value": [
+          "Pfizer dan BioNTech juga sudah mendapatkan izin penggunaan darurat dari BPOM pada 15 Juli 2021 lalu. Kedua vaksin ini mengklaim memiliki efektivitas 95 persen untuk menangkal virus corona, dan tidak menimbulkan risiko efek samping yang berarti. Vaksin Pfizer diberikan sebanyak dua kali penyuntikan dengan interval antar dosis, yaitu 21-28 hari."
+        ]
+      },
+      {
+        "label": "Vaksin Novavax",
+        "value": [
+          "Vaksin yang diproduksi di India ini menggunakan teknologi yang berbeda dengan vaksin-vaksin Corona lainnya. Novavax yang diberikan sebanyak dua dosis, berisi protein untuk membawa fragmen virus corona yang tidak berbahaya untuk menghasilkan reaksi kekebalan."
+        ]
+      },
+      {
+        "label": "Vaksin Sputnik V",
+        "value": [
+          "Vaksin Sputnik V mendapat izin dari BPOM untuk digunakan pada kelompok usia 18 tahun ke atas. Vaksin ini diberikan secara injeksi intramuscular sebanyak 2 kali penyuntikan dengan rentang waktu 3 minggu."
+        ]
+      },
+      {
+        "label": " Vaksin Janssen",
+        "value": [
+          "Vaksin Janssen juga digunakan untuk kelompok usia 18 tahun ke atas dengan pemberian dosis tunggal atau sekali suntikan."
+        ]
+      },
+      {
+        "label": " Vaksin Convidencia",
+        "value": [
+          "Vaksin Convidecia merupakan vaksin yang dikembangkan oleh CanSino Biological Inc. dan Beijing Institute of Biotechnology yang juga merupakan vaksin vector dengan menggunakan Adenovirus. Vaksin ini sudah mendapatkan izin penggunaan darurat dari BPOM dan bisa digunakan pada kelompok usia 18 tahun ke atas dengan pemberian satu kali suntikan."
+        ]
+      },
+      {
+        "label": " Vaksin Zifivax",
+        "value": [
+          "Zifivax merupakan vaksin yang dikembangkan dan diproduksi oleh Anhui Zhifei Longcom Biopharmaceutical dengan platform rekombinan protein sub-unit. Vaksin ini bisa digunakan pada orang berusia 18 tahun ke atas sebagai perlindungan dari virus SARS-CoV-2. Vaksin Zifivax diberikan sebanyak 3 kali suntikan dengan interval pemberian 1 bulan dari penyuntikan pertama ke penyuntikan berikutnya."
+        ]
+      }
+    ],
+    "text_afer": "",
+    "source": "www.halodoc.com",
+    "list_text_afer": []
+  },
+  {
+    "id": 4,
+    "title": "Gejala Setelah Vaksin",
+    "description": [
+      "Secara umum, vaksin tidak menimbulkan reaksi pada tubuh, atau apabila terjadi, hanya menimbulkan reaksi ringan. Vaksinasi memicu kekebalan tubuh dengan menyebabkan sistem kekebalan tubuh penerima bereaksi terhadap antigen yang terkandung dalam vaksin. Reaksi lokal dan sistemik seperti nyeri pada tempat suntikan atau demam dapat terjadi sebagai bagian dari respon imun. Komponen vaksin lainnya (misalnya bahan pembantu, penstabil, dan pengawet) juga dapat memicu reaksi. Vaksin yang berkualitas adalah vaksin yang menimbulkan reaksi ringan seminimal mungkin namun tetap memicu respon imun terbaik. Frekuensi terjadinya reaksi ringan vaksinasi ditentukan oleh jenis vaksin.",
+      "Reaksi yang mungkin terjadi setelah vaksinasi COVID-19 hampir sama dengan vaksin yang lain. Beberapa gejala tersebut antara lain: "
+    ],
+    "option": [
+      {
+        "label": "Reaksi lokal, seperti:",
+        "value": [
+          "Nyeri, kemerahan, bengkak pada tempat suntikan,",
+          "Reaksi lokal lain yang berat, misalnya selulitis."
+        ]
+      },
+      {
+        "label": "Reaksi sistemik seperti:",
+        "value": [
+          "Demam",
+          "Nyeri otot seluruh tubuh (myalgia)",
+          "Nyeri sendi (atralgia),",
+          "Badan lemah",
+          "Sakit kepala"
+        ]
+      },
+      {
+        "label": "Reaksi lain, seperti:",
+        "value": [
+          "Reaksi alergi misalnya urtikaria, oedem",
+          "Reaksi anafilaksis",
+          "Syncope (pingsan)"
+        ]
+      }
+    ],
+    "text_afer": "Untuk reaksi ringan lokal seperti nyeri, bengkak dan kemerahan pada tempat suntikan, petugas kesehatan dapat menganjurkan penerima vaksin untuk melakukan kompres dingin pada lokasi tersebut dan meminum obat paracetamol sesuai dosis. Untuk reaksi ringan sistemik seperti demam dan malaise, petugas kesehatan dapat menganjurkan penerima vaksin untuk minum lebih banyak, menggunakan pakaian yang nyaman, kompres atau mandi air hangat, dan meminum obat paracetamol sesuai dosis.",
+    "source": "www.persi.or.id",
+    "list_text_afer": []
+  }
+]
