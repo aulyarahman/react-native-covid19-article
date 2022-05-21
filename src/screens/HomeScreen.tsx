@@ -21,7 +21,7 @@ const BoxStyle: React.FC<BoxStyleProps> = (props: BoxStyleProps) => {
         <Icon
           as={FontAwesome}
           name="dot-circle-o"
-          color="amber.500"
+          color="blue.500"
           size={"6xl"}
         />
         <Text textAlign={"left"} fontWeight="bold" fontSize={"md"} mt={2}>
@@ -67,7 +67,7 @@ const HomeScreen = () => {
         </HStack>
         <HStack space={5} mt={3}>
           <BoxStyle label="PROKES" navigation="list-prokes" />
-          <BoxStyle label="DIAGNOSA" />
+          <BoxStyle label="DIAGNOSA" navigation="list-diagnosa" />
         </HStack>
       </Center>
     </SafeAreaLayout>

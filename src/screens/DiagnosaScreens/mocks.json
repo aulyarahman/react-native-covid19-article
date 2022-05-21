@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "question": "Apakah anda merasa flu atau bersin ?",
+    "answer": ""
+  },
+  {
+    "id": 2,
+    "question": "Apakah hidung anda tersumbat ?",
+    "answer": ""
+  },
+  {
+    "id": 3,
+    "question": "Apakah anda merasa demam ?",
+    "answer": ""
+  },
+  {
+    "id": 4,
+    "question": "Apakah anda Menggigil ?",
+    "answer": ""
+  },
+  {
+    "id": 5,
+    "question": "Apakah anda sering berkeringat ?",
+    "answer": ""
+  },
+  {
+    "id": 6,
+    "question": "Apakah batuk anda berdahak ?",
+    "answer": ""
+  },
+  {
+    "id": 7,
+    "question": "Apakah batuk anda tidak berdahak ?",
+    "answer": ""
+  },
+  {
+    "id": 8,
+    "question": "Apakah tubuh anda terasa lemas / mudah Lelah ?",
+    "answer": ""
+  },
+  {
+    "id": 9,
+    "question": "Apakah tenggorokan anda sakit ?",
+    "answer": ""
+  },
+  {
+    "id": 10,
+    "question": "Apakah kepala anda terasa sakit ?",
+    "answer": ""
+  },
+  {
+    "id": 11,
+    "question": "Nyeri dada ketika menarik napas atau batuk ?",
+    "answer": ""
+  },
+  {
+    "id": 12,
+    "question": "Apakah anda merasakan nyeri pada otot dan sendi ?",
+    "answer": ""
+  },
+  {
+    "id": 13,
+    "question": "Apakah anda diare ?",
+    "answer": ""
+  },
+
+  {
+    "id": 14,
+    "question": "Apakah anda memiliki ruam Pada Kulit ?",
+    "answer": ""
+  },
+  {
+    "id": 15,
+    "question": "Apakah mata anda merah ?",
+    "answer": ""
+  },
+  {
+    "id": 16,
+    "question": "Apakah anda merasa sesak nafas ?",
+    "answer": ""
+  },
+  {
+    "id": 17,
+    "question": "Kesulitan berbicara atau bergerak ?",
+    "answer": ""
+  },
+  {
+    "id": 18,
+    "question": "Kehilangan rasa atau bau ?",
+    "answer": ""
+  },
+  {
+    "id": 19,
+    "question": "Apakah detak jantung anda meningkat ?",
+    "answer": ""
+  },
+  {
+    "id": 20,
+    "question": "Apakah anda merasa mual dan muntah serta kehilangan nafsu makan ?",
+    "answer": ""
+  }
+]

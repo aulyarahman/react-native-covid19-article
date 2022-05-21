@@ -10,6 +10,8 @@ import ListVaksinScreens from "../screens/VaksinScreens/ListScreens";
 import DetailProkesScreens from "../screens/ProkesScreens/DetailProkes";
 import ListProkesScreens from "../screens/ProkesScreens/ListScreen";
 
+import DiagnosaScreens from "../screens/DiagnosaScreens/DiagnosaScreens";
+
 const Stack = createNativeStackNavigator();
 const Routing = () => {
   return (
@@ -34,6 +36,12 @@ const Routing = () => {
         component={ListProkesScreens}
         options={{ title: "PROKES" }}
       />
+      <Stack.Screen
+        name="list-diagnosa"
+        component={DiagnosaScreens}
+        options={{ headerShown: false }}
+      />
+      {/*  */}
       <Stack.Screen
         name="detail-covid"
         component={DetailCovidScreens}
