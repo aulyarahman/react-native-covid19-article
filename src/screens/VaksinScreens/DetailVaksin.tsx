@@ -1,6 +1,7 @@
 import { useRoute } from "@react-navigation/native";
 import {
   Box,
+  Heading,
   HStack,
   Icon,
   Image,
@@ -14,6 +15,7 @@ import SafeAreaLayout from "../../components/SafeAreaLayout";
 import { FontAwesome } from "@expo/vector-icons";
 import mocks from "./mocks.json";
 import { TouchableOpacity } from "react-native";
+import SpinnerLoading from "../../components/Loading";
 
 export interface VaksinDataTypes {
   id: number;
@@ -52,7 +54,7 @@ const DetailVaksinScreens = () => {
   if (!data) {
     return (
       <SafeAreaLayout>
-        <Text>Loading...</Text>
+        <SpinnerLoading />
       </SafeAreaLayout>
     );
   }
@@ -60,6 +62,7 @@ const DetailVaksinScreens = () => {
   return (
     <SafeAreaLayout>
       <ScrollView>
+        <Heading mt={4}>Fitur Aplikasi</Heading>
         {/* Image */}
         <Image
           source={{ uri: URI_IMAGE }}

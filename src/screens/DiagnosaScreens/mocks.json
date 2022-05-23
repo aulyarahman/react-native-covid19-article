@@ -2,102 +2,102 @@
   {
     "id": 1,
     "question": "Apakah anda merasa flu atau bersin ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 2,
     "question": "Apakah hidung anda tersumbat ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 3,
     "question": "Apakah anda merasa demam ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 4,
     "question": "Apakah anda Menggigil ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 5,
     "question": "Apakah anda sering berkeringat ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 6,
     "question": "Apakah batuk anda berdahak ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 7,
     "question": "Apakah batuk anda tidak berdahak ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 8,
     "question": "Apakah tubuh anda terasa lemas / mudah Lelah ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 9,
     "question": "Apakah tenggorokan anda sakit ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 10,
     "question": "Apakah kepala anda terasa sakit ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 11,
     "question": "Nyeri dada ketika menarik napas atau batuk ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 12,
     "question": "Apakah anda merasakan nyeri pada otot dan sendi ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 13,
     "question": "Apakah anda diare ?",
-    "answer": ""
+    "answer": false
   },
 
   {
     "id": 14,
     "question": "Apakah anda memiliki ruam Pada Kulit ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 15,
     "question": "Apakah mata anda merah ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 16,
     "question": "Apakah anda merasa sesak nafas ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 17,
     "question": "Kesulitan berbicara atau bergerak ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 18,
     "question": "Kehilangan rasa atau bau ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 19,
     "question": "Apakah detak jantung anda meningkat ?",
-    "answer": ""
+    "answer": false
   },
   {
     "id": 20,
     "question": "Apakah anda merasa mual dan muntah serta kehilangan nafsu makan ?",
-    "answer": ""
+    "answer": false
   }
 ]

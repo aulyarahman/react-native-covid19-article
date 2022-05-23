@@ -1,6 +1,7 @@
 import { useRoute } from "@react-navigation/native";
 import {
   Box,
+  Heading,
   HStack,
   Icon,
   Image,
@@ -15,6 +16,7 @@ import { FontAwesome } from "@expo/vector-icons";
 import mocks from "./mock.json";
 import { TouchableOpacity } from "react-native";
 import { CombineText } from "./CombineCheck";
+import SpinnerLoading from "../../components/Loading";
 
 export interface CovidDataTypes {
   id: number;
@@ -53,7 +55,7 @@ const DetailCovidScreens = () => {
   if (!data) {
     return (
       <SafeAreaLayout>
-        <Text>Loading...</Text>
+        <SpinnerLoading />
       </SafeAreaLayout>
     );
   }
@@ -61,6 +63,7 @@ const DetailCovidScreens = () => {
   return (
     <SafeAreaLayout>
       <ScrollView>
+        <Heading mt={4}>Fitur Aplikasi</Heading>
         {/* Image */}
         <Image
           source={{ uri: URI_IMAGE }}
@@ -127,6 +130,24 @@ const DetailCovidScreens = () => {
         {/* Description */}
         <Box>
           {data.description.map((val, id) => {
+            if (id === 2 + 1) {
+              return (
+                <VStack py={2}>
+                  <Text fontWeight={"bold"} fontSize={"md"}>
+                    EPIDEMIOLOGI
+                  </Text>
+                  <Text
+                    key={id}
+                    textAlign={"justify"}
+                    fontSize={"md"}
+                    fontWeight={"semibold"}
+                    color={"gray.600"}
+                  >
+                    {val}
+                  </Text>
+                </VStack>
+              );
+            }
             if (data.id === 3) {
               return (
                 <VStack py={2}>
@@ -199,6 +220,16 @@ const DetailCovidScreens = () => {
               </Text>
             </VStack>
           ))}
+
+          {data.id === 2 && (
+            <Image
+              source={require("../../../assets/covid-sejarah.png")}
+              alt={"ff"}
+              resizeMode={"cover"}
+              mt={-10}
+              mb={10}
+            />
+          )}
         </Box>
       </ScrollView>
     </SafeAreaLayout>

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "COVID-19",
+    "description": [
+      "Anda kemungkinan mengidap penyakit virus COVID-19, untuk memastikan hasil diagnosis, silahkan lakukan pemeriksaan lebih lanjut ke dokter, atau dengan melakukan tes antigen, swab ataupun pcr.",
+      "Untuk pengobatan silahkan melakukan hal berikut :"
+    ],
+    "imageUrl": "http://news.unair.ac.id/wp-content/uploads/2021/11/Ilustrasi-by-Amari-ITB.png",
+    "option": [
+      "Melakukan isolasi mandiri, dan istirahat yang cukup",
+      "Memperbanyak minum air putih untuk menjaga cairan tubuh",
+      "Ibuprofen atau paracetamol, untuk meredakan demam dan nyeri otot",
+      "Diphenhydramine dan pseudoephedrine, untuk mengatasi pilek dan hidung tersumbat",
+      "Guaifinesin, untuk meredakan batuk",
+      "Antibiotik, untuk mengatasi bakteri"
+    ],
+    "text_afer": ["Untuk info lebih lanjut silahkan klik tautan berikut :"],
+    "source": "https://www.alodokter.com/virus-corona"
+  },
+  {
+    "id": "ISPA",
+    "description": [
+      "Anda kemungkinan mengidap penyakit Infeksi Saluran Pernapasan Atas (ISPA), namun untuk memastikan silahkan melakukan pemeriksaan kedokter.     Untuk pengobatan silahkan mengkonsumsi obat berikut :"
+    ],
+    "imageUrl": "https://amari.itb.ac.id/wp-content/uploads/2021/01/Mengenal-Gejala-Infeksi-Virus-Korona-dari-Hari-ke-Hari-1536x864.png",
+
+    "option": [
+      "Ibuprofen atau paracetamol, untuk meredakan demam dan nyeri otot ",
+      "Diphenhydramine dan pseudoephedrine, untuk mengatasi pilek dan hidung tersumbat",
+      "Guaifinesin, untuk meredakan batuk",
+      "Antibiotik, untuk mengatasi ISPA yang disebabkan oleh bakteri"
+    ],
+    "text_afer": ["Untuk info lebih lanjut silahkan klik tautan berikut :"],
+    "source": "https://www.alodokter.com/ispa"
+  },
+  {
+    "id": "PNEUMONIA",
+    "description": [
+      "Anda kemungkinan mengidap penyakit PNEUMONIA, namun untuk memastikan hal tersebut, silahkan melakukan pemeriksaan kedokter. Untuk pengobatan silahkan mengkonsumsi obat berikut : "
+    ],
+    "imageUrl": "http://news.unair.ac.id/wp-content/uploads/2021/11/Ilustrasi-by-Amari-ITB.png",
+    "option": [
+      "Ibuprofen atau paracetamol, untuk meredakan demam dan nyeri otot ",
+      "Diphenhydramine dan pseudoephedrine, untuk mengatasi pilek dan hidung tersumbat",
+      "Guaifinesin, untuk meredakan batuk",
+      "Antibiotik, untuk mengatasi ISPA yang disebabkan oleh bakteri"
+    ],
+    "text_afer": ["Untuk info lebih lanjut silahkan klik tautan berikut :"],
+    "source": "https://www.alodokter.com/pneumonia"
+  },
+  {
+    "id": "ELSE",
+    "description": [
+      "Anda tidak memiliki penyakit atau gejala yang serius, namun untuk mengantisipasi datangnya penyakit, silahkan lakukan pemeriksaan ke dokter."
+    ],
+    "imageUrl": "https://www.prudential.co.id/export/sites/prudential-id/id/.galleries/images/product-image/GettyImages-1158300980-766x432.jpg",
+    "option": [],
+    "text_afer": [],
+    "source": ""
+  }
+]

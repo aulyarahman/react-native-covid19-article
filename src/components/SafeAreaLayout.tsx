@@ -4,21 +4,27 @@ import { StyleSheet } from "react-native";
 
 interface SafeAreaLayoutProps {
   children: ReactNode;
+  px?: number;
 }
 
 const SafeAreaLayout: React.FC<SafeAreaLayoutProps> = (
   props: SafeAreaLayoutProps
 ) => {
   return (
-    <SafeAreaView style={[styles.container]}>{props.children}</SafeAreaView>
+    <SafeAreaView
+      style={[
+        styles.container,
+        { paddingLeft: props.px || 20, paddingRight: props.px || 20 },
+      ]}
+    >
+      {props.children}
+    </SafeAreaView>
   );
 };
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#FFF",
-    paddingLeft: 20,
-    paddingRight: 20,
   },
 });
 export default SafeAreaLayout;

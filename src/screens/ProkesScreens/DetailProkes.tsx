@@ -1,6 +1,7 @@
 import { useRoute } from "@react-navigation/native";
 import {
   Box,
+  Heading,
   HStack,
   Icon,
   Image,
@@ -14,6 +15,7 @@ import SafeAreaLayout from "../../components/SafeAreaLayout";
 import { FontAwesome } from "@expo/vector-icons";
 import mocks from "./mocks.json";
 import { TouchableOpacity } from "react-native";
+import SpinnerLoading from "../../components/Loading";
 
 export interface VaksinDataTypes {
   id: number;
@@ -35,9 +37,6 @@ export interface RouteProps {
   id: number;
 }
 
-const URI_IMAGE =
-  "https://pingpoint.co.id/media/images/Kala_Social_Distancing_Ini_Hal_yang_Harus_Dila.width-800.jpg";
-
 const DetailProkesScreens = () => {
   const [data, setData] = React.useState<VaksinDataTypes | undefined>();
   const [like, setLike] = React.useState(0);
@@ -53,7 +52,7 @@ const DetailProkesScreens = () => {
   if (!data) {
     return (
       <SafeAreaLayout>
-        <Text>Loading...</Text>
+        <SpinnerLoading />
       </SafeAreaLayout>
     );
   }
@@ -61,6 +60,7 @@ const DetailProkesScreens = () => {
   return (
     <SafeAreaLayout>
       <ScrollView>
+        <Heading mt={4}>Fitur Aplikasi</Heading>
         {/* Image */}
         <Image
           source={{ uri: data.imageUrl }}

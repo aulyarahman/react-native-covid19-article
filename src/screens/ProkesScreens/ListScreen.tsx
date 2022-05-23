@@ -50,14 +50,14 @@ const ListProkesScreens = () => {
 
   return (
     <SafeAreaLayout>
-      <Text color={"gray.500"} mt={4}>
-        {new Date().toLocaleString("en-us", {
-          month: "short",
-          year: "numeric",
-        })}
-      </Text>
-      <Heading textAlign={"left"}>Prokes COVID-19</Heading>
       <ScrollView>
+        <Text color={"gray.500"}>
+          {new Date().toLocaleString("en-us", {
+            month: "short",
+            year: "numeric",
+          })}
+        </Text>
+        <Heading textAlign={"left"}>Prokes COVID-19</Heading>
         {ListData.map((it, id) => (
           <TouchableOpacity
             key={id}
